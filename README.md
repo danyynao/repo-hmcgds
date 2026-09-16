@@ -1,8 +1,10 @@
 2026/09/16 16:03:17
 
-<!-- notify 1/2 · dvManXkQ -->
-## Notification 1/2
-Round: Round 1
-To: jimmy@jimmynguyen.com, teddmcclure1975@yahoo.com
-At: 2026-09-16 16:03:25
-Id: dvManXkQ
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: veronica.waingraw@aexp.com, tony@jdrush.com
+At: 2026-09-16 16:03:33
+Id: zwzGQJ8M
